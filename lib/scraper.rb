@@ -44,6 +44,8 @@ def print_courses
   end
 end
 
+Scraper.new.print_courses
+
 end
 
 Scraper.new.get_courses
