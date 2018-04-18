@@ -11,5 +11,3 @@ def get_page
 end
 
 end
-
-Scraper.new.print_courses
